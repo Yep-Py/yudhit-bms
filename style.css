@@ -18,9 +18,8 @@
 */
 
 * {
-  font-family: "Atkinson Hyperlegible Next", sans-serif !important;
-  font-optical-sizing: auto;
-  font-weight: 16;
+  font-family: "Iosevka Charon", monospace !important;
+  font-weight: 400;
   font-style: normal;
 }
 .navbar {
