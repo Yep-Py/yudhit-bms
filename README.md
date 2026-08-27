@@ -4,10 +4,10 @@ Slicing design dari Figma ke HTML, CSS, dan JavaScript.
 
 ## Identitas
 
-|          |           |
-| -------- | --------- |
-| **Nama** | Nama Kamu |
-| **NRP**  | 00000000  |
+|          |                        |
+| -------- | ---------              |
+| **Nama** | Yudhistira Eka Pratama |
+| **NRP**  | 5025251136             |
 
 ## Link Figma
 
